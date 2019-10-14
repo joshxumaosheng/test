@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="elasticsearch-day1-demo1" />
+        <module name="lucene-iKAnalyzer" />
+        <module name="d-i-y" />
+        <module name="elasticsearch-day2-demo1" />
+        <module name="lucene" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="d-i-y" target="7" />
+      <module name="elasticsearch-day1-demo1" target="1.5" />
+      <module name="elasticsearch-day2-demo1" target="1.5" />
+      <module name="elasticserche" target="1.5" />
+      <module name="lucene" target="1.5" />
+      <module name="lucene-iKAnalyzer" target="7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

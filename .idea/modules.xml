@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/d-i-y/d-i-y.iml" filepath="$PROJECT_DIR$/d-i-y/d-i-y.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticseacher.iml" filepath="$PROJECT_DIR$/elasticseacher.iml" group="elasticseacher" />
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch-day1-demo1/elasticsearch-day1-demo1.iml" filepath="$PROJECT_DIR$/elasticsearch-day1-demo1/elasticsearch-day1-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch-day2-demo1/elasticsearch-day2-demo1.iml" filepath="$PROJECT_DIR$/elasticsearch-day2-demo1/elasticsearch-day2-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticserche/elasticserche.iml" filepath="$PROJECT_DIR$/elasticserche/elasticserche.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticserche/lucene/lucene.iml" filepath="$PROJECT_DIR$/elasticserche/lucene/lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucene-iKAnalyzer/lucene-iKAnalyzer.iml" filepath="$PROJECT_DIR$/lucene-iKAnalyzer/lucene-iKAnalyzer.iml" />
+    </modules>
+  </component>
+</project>
